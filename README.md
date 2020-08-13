@@ -1,5 +1,5 @@
 # LogoutRedirectorForHotmailAndOutlook
 Chrome extension that redirects you to the Outlook/Hotmail login page after you successfully log out of Outlook/Hotmail. This is done to avoid the MSN landing page.
-This extension can be found on the Chrome Web Store once published.
+This extension can be found on the Chrome Web Store at https://chrome.google.com/webstore/detail/logout-redirector-for-hot/dimljjlodblfpmkiefpchagdbnmmpgnf
 
 You may run this extension in unpacked format by downloading it from Github, setting Chrome into developer mode, clicking "Load Unpacked" and then selecting the folder you downloaded the files to.
